@@ -17,6 +17,7 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    text-align: left;
 }
 
 #cabecera #logo
@@ -36,7 +37,7 @@ body
 {
     width: 70%;
     padding: 0;
-    text-align: left;
+    text-align: center;
     border: 1px solid #DDD;
     margin: 10 auto;
 }
